@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_netninja/static/css/main.f1302bb2.css",
+    "main.js": "/react_netninja/static/js/main.36d7b864.js",
+    "index.html": "/react_netninja/index.html",
+    "main.f1302bb2.css.map": "/react_netninja/static/css/main.f1302bb2.css.map",
+    "main.36d7b864.js.map": "/react_netninja/static/js/main.36d7b864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1302bb2.css",
+    "static/js/main.36d7b864.js"
+  ]
+}
